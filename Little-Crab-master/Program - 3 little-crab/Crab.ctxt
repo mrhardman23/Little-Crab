@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ This\ class\ defines\ a\ crab.\ Crabs\ live\ on\ the\ beach.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act\ is\ the\ method\ that\ runs\ during\ every\ act\ cycle\ of\ the\ scenario\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=distance
+comment2.target=void\ walk(int)
+comment3.params=
+comment3.target=void\ checkKeys()
+comment3.text=\r\n\ checkKeys\ will\ allow\ the\ Crab\ to\ complete\ actions\ (turns)\ based\ on\ keyboard\ presses\r\n\ (left\ and\ right\ arrow\ keys)\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ checkForWorms()
+comment4.text=\r\n\ checkForWorms\ checks\ if\ the\ Crab\ has\ touched\ a\ Worm\r\n\ and\ if\ so,\ eats\ the\ worm\ (removes\ the\ worm\ from\ the\ world)\r\n\ and\ plays\ a\ slurping\ sound\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=5

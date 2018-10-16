@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CrabWorld
+comment1.params=
+comment1.target=CrabWorld()
+comment1.text=\r\n\ Create\ the\ crab\ world\ (the\ beach).\ Our\ world\ has\ a\ size\ \r\n\ of\ 560x560\ cells,\ where\ every\ cell\ is\ just\ 1\ pixel.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ prepare\ prepares\ the\ world\ for\ the\ game\ by\ adding\ a\ Crab\ in\ the\ centre\ of\ the\ world,\r\n\ six\ Worms\ in\ random\ locations,\ and\ two\ Lobsters\ (one\ randomly\ on\ the\ left\ side\ of\ the\r\n\ screen\ and\ one\ randomly\ on\ the\ right\ side\ of\ the\ screen)\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ is\ the\ method\ that\ runs\ during\ every\ act\ cycle\ of\ the\ scenario\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ checkForWin()
+comment4.text=\r\n\ checkForWin\ checks\ to\ see\ if\ the\ user\ has\ eaten\ all\ worms.\ If\ so,\ the\ player\r\n\ hears\ a\ winning\ sound\ and\ the\ scenario\ stops\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=5
