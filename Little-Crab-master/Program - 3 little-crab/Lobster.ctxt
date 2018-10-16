@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lobster
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lobster\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act\ is\ the\ method\ that\ runs\ during\ every\ act\ cycle\ of\ the\ scenario\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ walk()
+comment2.text=\r\n\ walk\ is\ responsible\ for\ making\ the\ Lobster\ move\ randomly.\ Twenty-five\ percent\r\n\ of\ the\ time,\ the\ Lobster\ turns.\ When\ it\ turns,\ fifty\ percent\ of\ the\ time\ it\ turns\r\n\ counterclockwise\ 5\ degrees\ and\ the\ other\ fifty\ percent\ of\ the\ time\ it\ turns\r\n\ clockwise\ 5\ degrees.\ The\ Lobster\ moves\ in\ the\ current\ direction\ 2\ pixels\ after\ that\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ turnAwayAtEdge()
+comment3.text=\r\n\ turnAwayAtEdge\ will\ make\ the\ Lobster\ turn\ 180\ degrees\ when\ it\ reaches\ the\ edge\ of\r\n\ the\ world\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ checkForCrab()
+comment4.text=\r\n\ checkForCrab\ checks\ to\ see\ if\ the\ Lobster\ has\ run\ into\ a\ Crab\r\n\ and,\ if\ so,\ the\ Lobster\ eats\ the\ Crab\ (the\ Crab\ gets\ removed\ from\ the\ world).\r\n\ Then,\ an\ "Ow\!"\ sound\ gets\ played\ to\ represent\ the\ player\ losing\r\n
+numComments=5
